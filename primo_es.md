@@ -1,6 +1,3 @@
-#es 1: come calcolare lo sconto
-tuiton = 4535
-d= int(input("dimmi lo sconto "))
-d /= 100
-discount = tuiton - (tuiton * d)
-print(discount)
+hi im trevisss
+i'm new here
+i don't now much of coding, but i'm improving
