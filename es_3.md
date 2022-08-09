@@ -1,8 +1,0 @@
-#es 3: sufficienza?
-result = int(input("tell me how it went "))
-if result > 100 or result < 0:
-    print ("invalid result")
-elif result >= 50:
-    print("you have passed the exam")
-else:
-    print("go study harder")
